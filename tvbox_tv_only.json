@@ -3,7 +3,7 @@
     "lives": [{
             "name": "直播",
             "type": 0,
-            "url": "https://my-tv-solution.vercel.app/tv_dist.txt",
+            "url": "https://cdn.jsdelivr.net/gh/Outlying3720/my-tv-solution@main/tv_dist.txt",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }, {
