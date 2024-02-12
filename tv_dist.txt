@@ -1,0 +1,2 @@
+温州台,#genre#
+温州新闻综合,http://live.wzqmt.com/wztv1/sd/live.m3u8
